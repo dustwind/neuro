@@ -1,0 +1,37 @@
+E:\Desktop\neuro1\neuro1\bin\Debug\neuro1.exe.config
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.Form1.resources
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.Properties.Resources.resources
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.csproj.GenerateResource.Cache
+E:\Desktop\neuro1\neuro1\bin\Debug\neuro1.exe
+E:\Desktop\neuro1\neuro1\bin\Debug\neuro1.pdb
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.exe
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.pdb
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.csprojResolveAssemblyReference.cache
+E:\Desktop\neuro1\neuro1\obj\Debug\neuro1.FormDialog.resources
+E:\uni\7 семестр\ИИС\neuro1\neuro1\bin\Debug\neuro1.exe.config
+E:\uni\7 семестр\ИИС\neuro1\neuro1\obj\Debug\neuro1.exe
+E:\uni\7 семестр\ИИС\neuro1\neuro1\obj\Debug\neuro1.pdb
+E:\uni\7 семестр\ИИС\neuro1\neuro1\bin\Debug\neuro1.exe
+E:\uni\7 семестр\ИИС\neuro1\neuro1\bin\Debug\neuro1.pdb
+E:\uni\7 семестр\ИИС\neuro1\neuro1\obj\Debug\neuro1.csprojResolveAssemblyReference.cache
+E:\uni\7 семестр\ИИС\neuro1\neuro1\obj\Debug\neuro1.Form1.resources
+E:\uni\7 семестр\ИИС\neuro1\neuro1\obj\Debug\neuro1.Properties.Resources.resources
+E:\uni\7 семестр\ИИС\neuro1\neuro1\obj\Debug\neuro1.csproj.GenerateResource.Cache
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\bin\Debug\neuro1.exe.config
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.exe
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.pdb
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\bin\Debug\neuro1.exe
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\bin\Debug\neuro1.pdb
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.csprojResolveAssemblyReference.cache
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.Form1.resources
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.Properties.Resources.resources
+E:\uni\7 семестр\ИИС\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.csproj.GenerateResource.Cache
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\bin\Debug\neuro1.exe.config
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.exe
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.pdb
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\bin\Debug\neuro1.exe
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\bin\Debug\neuro1.pdb
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.csprojResolveAssemblyReference.cache
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.Form1.resources
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.Properties.Resources.resources
+E:\Desktop\Новая папка\neuro_garchenko\neuro1\neuro1\obj\Debug\neuro1.csproj.GenerateResource.Cache
